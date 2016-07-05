@@ -37,9 +37,10 @@ This project is in its very early stages. Currently this is the third model of a
 
 **Instructions**
 
-1. Run TestCaseKarma.py
-2. Run nGrams.py
-3. Run Bot.py
-4. Run Replier.py
+1. Delete anything in the text files
+2. Run TestCaseKarma.py
+3. Run nGrams.py
+4. Run Bot.py
+5. Run Replier.py
 
 Warning: Some of the code my need to be updated with valid Reddit Login credentials.
