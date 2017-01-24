@@ -1,5 +1,7 @@
 # Cyberbullying Detection
 
+In collaboration with Tuneer Mondal (https://github.com/t-mondal)
+
 **Description**
 
 This project seeks to combat cyberbullying in social media, through computer automated detection and prevention of cyberbullying. Through analyzing the monogram and bigram frequencies of harmful messages, a machine learning algorithm will be used to determine if an inputted Reddit comment is harmful or not. This is done through a bot that scans through Reddit comments.
@@ -26,7 +28,7 @@ https://1drv.ms/b/s!ArYmmazjqJUssDzsgZP9ygfXY7d4
 
 **Notes**
 
-This project is in its very early stages. Currently this is the third model of a cyberbullying detection program that I've developed, and more models are planned which add/refine:
+This project is in its very early stages. Currently this is the third model of a cyberbullying detection program that We've developed, and more models are planned which add/refine:
 
 - Consistency checking features to ensure that checks if longer comments include instances of cyberbullying throughout. This will reduce the number of false positives
 - Context checking the surrounding comments to see if any hostility/negativity was already present
